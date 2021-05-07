@@ -2,10 +2,11 @@
 Deliciosos y preciosos postres
 Hola, mi nombre es Yesenia pero muchos me dices Yesi, esta es mi pagina sobre mi nuevo emprendimiento de mis ricos y deliciosos postres, espero te guste.
 
+
 <html>
     <head>
         <meta charset="utf-8">
-        <title> Songs Lyrics</title>
+        <title> Bakerys Yesi</title>
         
     <style>
         body {
@@ -15,10 +16,10 @@ Hola, mi nombre es Yesenia pero muchos me dices Yesi, esta es mi pagina sobre mi
                color: purple;
           }                
 	h2{
-		color: chocolate;
+		color: pink;
 	  }
         h3{
-		color:brown;
+		color:pink;
 	  }
         #v1{
                 color: rebeccapurple;
@@ -44,31 +45,8 @@ Hola, mi nombre es Yesenia pero muchos me dices Yesi, esta es mi pagina sobre mi
     
     <h3>Original Lyrics</h3> 
 <br> 
-<p id="v1">Verse1<br>
-I see trees of green, red roses too<br>
-I see them bloom for me and you<br>
-And I think to myself, what a wonderful world</P>
 
-<p id="v2">Verse2 <br>
-I see skies of blue and clouds of white<br>
-The bright blessed days, the dark sacred night<br>
-And I think to myself, what a wonderful world</P>
-
-<p id="v3">Verse3 <br>
-The colors of the rainbow, so pretty in the sky<br>
-Are also on the faces of people going by<br>
-I see friends shaking hands, saying: How do you do?<br>
-They're really saying: I love you!</p>
-
-<p>Verse4<br>
-I hear babies crying, I watch them grow<br>
-They'll learn much more, than I'll never know<br>
-And I think to myself, what a wonderful world<br>
-Yes, I think to myself, what a wonderful world</p>
 
     </center>  
     </body>
 </html>
-
-
-
